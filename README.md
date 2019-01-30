@@ -1,5 +1,5 @@
 # Toe-Tac-Tic
-The reversed rule version of Tic-Tac-Toe. You can win if NPC wins in Tic-Tac-Toe.
+The reversed rule version of Tic-Tac-Toe. You can win if NPC wins in the Tic-Tac-Toe rule.
 
 For example, if board is like the one below you are the winner.
 
