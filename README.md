@@ -24,7 +24,7 @@ You can choose the level 0 to 2.
 Perhaps it could be used as follows for reinforcement learning.
 
 ```python
-from ToeTacTicEnvironment import main
+from main import ToeTacTicEnvironment
 
 env = ToeTacTicEnvironment()
 env.reset()
